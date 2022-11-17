@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljberbell&label=Profile%20views&color=0e75b6&style=flat" alt="aljberbell" /> </p>
 
-- 🔭 I’m currently working on **Loss Models , Pricing Premiun**
+- 🔭 I’m currently working on **Loss Models , Pricing Premiun , Deep Learning **
 
 - 🌱 I’m currently learning **SAS , New statistic models**
 
