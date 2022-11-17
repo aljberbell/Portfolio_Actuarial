@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SAS , New statistic models**
 
-- 🤝 I’m looking for help with **RStudio , Python**
+- 🤝 I’m looking for help with **Mostrar y difundir mis conocimientos en el campo de la estadistica actuarial.**
 
 - 💬 Ask me about **R , Python , Visual Basic**
 
