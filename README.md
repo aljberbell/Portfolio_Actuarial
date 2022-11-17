@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Bernal</h1>
-<h3 align="center">Soy Actuario y me apasiona el mundo actuarial , la estadística aplicada ( ML , Big Data ). Este portfolio contiene mis proyectos mas relevantes.</h3>
+<h3 align="center">Soy Actuario y me apasiona el mundo actuarial , la estadística aplicada ( ML , Big Data ). En este portfolio añadire a lo largo del tiempo mis proyectos mas relevantes.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1626947880/hevo-learn/SQL-Data-Analyst/SQL-Data-Analyst.png?_i=AA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aljberbell&label=Profile%20views&color=0e75b6&style=flat" alt="aljberbell" /> </p>
